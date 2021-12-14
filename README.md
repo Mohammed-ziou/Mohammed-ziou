@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Mohammed-ziou
-- 👀 I’m interested in wep development (front-end) and intersted in robotics
-- 🌱 I’m currently trying to master html/cc/js while having enough time to be a straight A student majoring Mechaincal engineering
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me... you can dm me on twitter @Mziou3
+- 📫 How to reach me... you can dm me on twitter @ZforZiou 
